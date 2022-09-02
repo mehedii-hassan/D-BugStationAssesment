@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miHome"
+        android:icon="@drawable/home"
+        android:title="Home"></item>
+
+    <item
+        android:id="@+id/miStone"
+        android:icon="@drawable/group_783"
+        android:title="Stone"></item>
+
+    <item
+        android:id="@+id/miDiscover"
+        android:icon="@drawable/group_33"
+        android:title="Discover"></item>
+    <item
+        android:id="@+id/miFeed"
+        android:icon="@drawable/group_671"
+        android:title="Feed"></item>
+
+</menu>
